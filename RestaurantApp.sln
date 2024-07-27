@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantApp.AppHost", "RestaurantApp\RestaurantApp.AppHost\RestaurantApp.AppHost.csproj", "{3AC8DE3D-D76B-4C82-809A-5B9A2F0B2BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantApp.ServiceDefaults", "RestaurantApp\RestaurantApp.ServiceDefaults\RestaurantApp.ServiceDefaults.csproj", "{D85C6715-CD94-4951-BA5D-1D3B59E3BEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "Catalog.API\Catalog.API.csproj", "{2BEB7C62-1029-4561-827F-0C42CC8516F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reserve.API", "Reserve.API\Reserve.API.csproj", "{3DD507F2-387B-4FE8-9312-CCF7AEA425DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{A90C1CC7-2D0A-4E5B-998A-4C4F21305472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API", "Identity.API\Identity.API.csproj", "{B6F40036-A5CB-493E-A3C2-D64206A10E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC8DE3D-D76B-4C82-809A-5B9A2F0B2BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC8DE3D-D76B-4C82-809A-5B9A2F0B2BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC8DE3D-D76B-4C82-809A-5B9A2F0B2BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC8DE3D-D76B-4C82-809A-5B9A2F0B2BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85C6715-CD94-4951-BA5D-1D3B59E3BEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85C6715-CD94-4951-BA5D-1D3B59E3BEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85C6715-CD94-4951-BA5D-1D3B59E3BEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85C6715-CD94-4951-BA5D-1D3B59E3BEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEB7C62-1029-4561-827F-0C42CC8516F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEB7C62-1029-4561-827F-0C42CC8516F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEB7C62-1029-4561-827F-0C42CC8516F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEB7C62-1029-4561-827F-0C42CC8516F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD507F2-387B-4FE8-9312-CCF7AEA425DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD507F2-387B-4FE8-9312-CCF7AEA425DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD507F2-387B-4FE8-9312-CCF7AEA425DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD507F2-387B-4FE8-9312-CCF7AEA425DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90C1CC7-2D0A-4E5B-998A-4C4F21305472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90C1CC7-2D0A-4E5B-998A-4C4F21305472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90C1CC7-2D0A-4E5B-998A-4C4F21305472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90C1CC7-2D0A-4E5B-998A-4C4F21305472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F40036-A5CB-493E-A3C2-D64206A10E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F40036-A5CB-493E-A3C2-D64206A10E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F40036-A5CB-493E-A3C2-D64206A10E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F40036-A5CB-493E-A3C2-D64206A10E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

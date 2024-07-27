@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Category": "Footwear",
+    "Title": "test1",
+    "Description": "Daybird's Wanderer Hiking Boots in sleek black are perfect for all your outdoor adventures. These boots are made with a waterproof leather upper and a durable rubber sole for superior traction. With their cushioned insole and padded collar, these boots will keep you comfortable all day long.",
+    "Price": 19.99
+  },
+  {
+    "Id": 2,
+    "Category": "Footwear",
+    "Title": "test2",
+    "Description": "Daybird's Wanderer Hiking Boots in sleek black are perfect for all your outdoor adventures. These boots are made with a waterproof leather upper and a durable rubber sole for superior traction. With their cushioned insole and padded collar, these boots will keep you comfortable all day long.",
+    "Price": 109.99
+  },
+  {
+    "Id": 3,
+    "Category": "Footwear",
+    "Title": "test3",
+    "Description": "Daybird's Wanderer Hiking Boots in sleek black are perfect for all your outdoor adventures. These boots are made with a waterproof leather upper and a durable rubber sole for superior traction. With their cushioned insole and padded collar, these boots will keep you comfortable all day long.",
+    "Price": 9.99
+  }
+]

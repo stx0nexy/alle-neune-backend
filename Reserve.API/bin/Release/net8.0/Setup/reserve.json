@@ -1,0 +1,35 @@
+[
+  {
+    "Game": true,
+    "DateReservation": "2024-07-25",
+    "TimeReservation": "14:00:00",
+    "EatAndPlay": false,
+    "Name": "Иван",
+    "Surname": "Иванов",
+    "PhoneNumber": "+1234567890",
+    "CountPersons": 4,
+    "Message": "Требуется дополнительное место для празднования дня рождения."
+  },
+  {
+    "Game": false,
+    "DateReservation": "2024-07-26",
+    "TimeReservation": "19:00:00",
+    "EatAndPlay": false,
+    "Name": "Мария",
+    "Surname": "Петрова",
+    "PhoneNumber": "+0987654321",
+    "CountPersons": 6,
+    "Message": "Собрание с коллегами."
+  },
+  {
+    "Game": true,
+    "DateReservation": "2024-07-27",
+    "TimeReservation": "16:30:00",
+    "EatAndPlay": true,
+    "Name": "Алексей",
+    "Surname": "Сидоров",
+    "PhoneNumber": "+1122334455",
+    "CountPersons": 5,
+    "Message": "Встреча с друзьями."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "haUZZM78acJQo5Erte/loJTIMLZpHmG9KoHf90VWxr4=",
+  "Source": "Catalog.API",
+  "BasePath": "_content/Catalog.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Catalog.API\\wwwroot",
+      "Source": "Catalog.API",
+      "ContentRoot": "C:\\Users\\nykol\\RiderProjects\\RestaurantApp\\Catalog.API\\wwwroot\\",
+      "BasePath": "_content/Catalog.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

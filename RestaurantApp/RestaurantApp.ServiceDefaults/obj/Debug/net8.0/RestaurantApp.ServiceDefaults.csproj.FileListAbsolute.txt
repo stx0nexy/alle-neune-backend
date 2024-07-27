@@ -1,0 +1,12 @@
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\bin\Debug\net8.0\RestaurantApp.ServiceDefaults.deps.json
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\bin\Debug\net8.0\RestaurantApp.ServiceDefaults.dll
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\bin\Debug\net8.0\RestaurantApp.ServiceDefaults.pdb
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\RestaurantApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\RestaurantApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\RestaurantApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\RestaurantApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\RestaurantApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\RestaurantApp.ServiceDefaults.dll
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\refint\RestaurantApp.ServiceDefaults.dll
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\RestaurantApp.ServiceDefaults.pdb
+C:\Users\nykol\RiderProjects\RestaurantApp\RestaurantApp\RestaurantApp.ServiceDefaults\obj\Debug\net8.0\ref\RestaurantApp.ServiceDefaults.dll

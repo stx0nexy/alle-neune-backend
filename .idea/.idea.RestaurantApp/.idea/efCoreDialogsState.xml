@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:2beb7c62-1029-4561-827f-0c42cc8516f4:dbContext" value="Catalog.API.Infrastructure.CatalogContext" />
+        <entry key="Common:3dd507f2-387b-4fe8-9312-ccf7aea425dd:dbContext" value="Reserve.API.Infrastructure.ReserveContext" />
+        <entry key="Common:b6f40036-a5cb-493e-a3c2-d64206a10e34:dbContext" value="eShop.Identity.API.Data.ApplicationDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Infrastructure/Migrations" />
+      </map>
+    </option>
+  </component>
+</project>

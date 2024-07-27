@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nykol\\RiderProjects\\RestaurantApp\\Catalog.API\\wwwroot\\images\\a7382c95-17f4-4fca-b478-845c1e6b3eef_124821.png",
+      "PackagePath": "staticwebassets\\images\\a7382c95-17f4-4fca-b478-845c1e6b3eef_124821.png"
+    },
+    {
+      "Id": "C:\\Users\\nykol\\RiderProjects\\RestaurantApp\\Catalog.API\\wwwroot\\images\\c4a26463-f970-4c98-bab8-ee3a00cd4f13_124821.png",
+      "PackagePath": "staticwebassets\\images\\c4a26463-f970-4c98-bab8-ee3a00cd4f13_124821.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Catalog.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Catalog.API.props",
+      "PackagePath": "build\\Catalog.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Catalog.API.props",
+      "PackagePath": "buildMultiTargeting\\Catalog.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Catalog.API.props",
+      "PackagePath": "buildTransitive\\Catalog.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

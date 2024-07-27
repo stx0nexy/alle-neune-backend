@@ -1,0 +1,180 @@
+[
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Wiener mit Brötchen",
+    "Price": 3.50
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Bockwurst mit Brötchen",
+    "Price": 3.50
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Strammer Max",
+    "Price": 7.50
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Karlsbader Schnitte",
+    "Price": 7.50
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "kl. Würzfleisch",
+    "Description": "Mit Käse überbacken",
+    "Price": 7.50
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "gr. Würzfleisch",
+    "Description": "Mit Käse überbacken",
+    "Price": 8.90
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Würzfleisch-Schnitte",
+    "Description": "Mit Käse überbacken",
+    "Price": 8.90
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Omlett mit Würzfleisch",
+    "Price": 8.90
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Omlet mit Schinken und Gemüse",
+    "Price": 7.90
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Backcamember",
+    "Description": "mit Salat, Toast und Preiselbeer-Dip",
+    "Price": 9.90
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Kartoffelecken",
+    "Description": "mit Schmand als Dip",
+    "Price": 5.50
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Bratkartoffeln mit Spiegelei",
+    "Price": 7.90
+  },
+  {
+    "Category": "Für den kleinen Hunger",
+    "Title": "Pommes mit Ketschup",
+    "Price": 5.50
+  },
+  {
+    "Category": "Suppen",
+    "Title": "Soljanka",
+    "Price": 7.50
+  },
+  {
+    "Category": "Suppen",
+    "Title": "Borschtsch",
+    "Price": 7.50
+  },
+  {
+    "Category": "Suppen",
+    "Title": "Mit Scheibe Brot",
+    "Price": 0.60
+  },
+  {
+    "Category": "Salate",
+    "Title": "Gemischter Salat",
+    "Price": 7.90
+  },
+  {
+    "Category": "Salate",
+    "Title": "Gemischter Salat mit Hähnchenbrust",
+    "Price": 9.90
+  },
+  {
+    "Category": "Salate",
+    "Title": "Griechischer Salat",
+    "Description": "mit Feta, Oliven",
+    "Price": 7.90
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Bauernfrühstück",
+    "Price": 9.50
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Feuerfleisch mit Sauerkraut und Knödel",
+    "Price": 19.90
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Sülze mit Bratkartoffeln",
+    "Price": 15.50
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Schnitzel auf Brot",
+    "Price": 9.50
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Schnitzel auf Brot mit Spiegelei",
+    "Price": 12.50
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Schnitzel mit Beilage",
+    "Price": 15.50
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Schnitzel mit Beilage und Spiegelei",
+    "Price": 17.50
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Schnitzel mit Würzfleisch und Käse überbacken",
+    "Description": "mit Beilage",
+    "Price": 19.90
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Räuberschnitzel mit Champignons",
+    "Description": "mit Beilage",
+    "Price": 17.90
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Räuberschnitzel mit Champignons und Käse überbacken",
+    "Description": "mit Beilage",
+    "Price": 19.90
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Geflügelschnitzel",
+    "Description": "mit Beilage",
+    "Price": 16.50
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Rostbrädel (Nackensteak mit Zwiebel)",
+    "Description": "mit Beilage",
+    "Price": 17.90
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Omlet mit Würzfleisch",
+    "Description": "mit Beilage",
+    "Price": 15.90
+  },
+  {
+    "Category": "Hauptgerichte",
+    "Title": "Beilagen:",
+    "Description": "Pommes, Bratkartoffeln, Salzkartoffeln, Kartoffelpüree, Kartoffelecken",
+    "Price": 0.0
+  }
+]
